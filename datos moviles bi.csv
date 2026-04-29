@@ -1,0 +1,16 @@
+ID_Venta,Fecha,Empleado,Movil,Marca,Pais_Origen,Precio,Financiado,Categoria,Comision_Euros
+1,2026-01-15,Ana Garcia,iPhone 15,Apple,EEUU,950,TRUE,Premium,28.5
+2,2026-01-18,Carlos Ruiz,Galaxy S24,Samsung,Corea del Sur,1100,FALSE,Premium,33.0
+3,2026-01-22,Ana Garcia,Redmi Note 13,Xiaomi,China,250,TRUE,Gama Media,7.5
+4,2026-01-25,Lucia Sanz,Pixel 8,Google,EEUU,750,FALSE,Gama Alta,22.5
+5,2026-02-02,Carlos Ruiz,iPhone 14,Apple,EEUU,700,TRUE,Gama Alta,21.0
+6,2026-02-10,Lucia Sanz,Galaxy A54,Samsung,Corea del Sur,350,FALSE,Gama Media,10.5
+7,2026-02-14,Ana Garcia,Moto G84,Motorola,EEUU,280,TRUE,Gama Media,8.4
+8,2026-02-20,Carlos Ruiz,iPhone 15 Pro,Apple,EEUU,1250,TRUE,Premium,37.5
+9,2026-03-01,Lucia Sanz,Nothing Phone 2,Nothing,Reino Unido,600,FALSE,Gama Alta,18.0
+10,2026-03-05,Ana Garcia,Galaxy S23 FE,Samsung,Corea del Sur,650,TRUE,Gama Alta,19.5
+11,2026-03-12,Carlos Ruiz,Xperia 5 V,Sony,Japon,900,FALSE,Premium,27.0
+12,2026-03-18,Lucia Sanz,iPhone 15,Apple,EEUU,950,TRUE,Premium,28.5
+13,2026-03-22,Ana Garcia,Galaxy A34,Samsung,Corea del Sur,290,FALSE,Gama Media,8.7
+14,2026-03-25,Carlos Ruiz,Xiaomi 14,Xiaomi,China,1000,TRUE,Premium,30.0
+15,2026-03-27,Lucia Sanz,Pixel 7a,Google,EEUU,450,FALSE,Gama Media,13.5
